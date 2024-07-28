@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@edgio/cli": "^7.12.5",
+    "@edgio/cli": "^7.12.10",
     "@edgio/core": "^7.12.5",
     "@edgio/devtools": "^7.12.5",
     "@edgio/prefetch": "^7.12.5"
